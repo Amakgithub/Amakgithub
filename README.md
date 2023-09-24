@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Amal 
+my email address is emy.amy90@hotmail.com
+i just created my Github account 
+i just created my repository
+
 
 <!--
 **Amakgithub/Amakgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
